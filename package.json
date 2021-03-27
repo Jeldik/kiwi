@@ -1,0 +1,27 @@
+{
+  "name": "kiwi",
+  "version": "1.0.0",
+  "description": "Cypress tests for kiwi.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jeldik/kiwi.git"
+  },
+  "keywords": [
+    "cypress",
+    "kiwi"
+  ],
+  "author": "Tomas Jelinek",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jeldik/kiwi/issues"
+  },
+  "homepage": "https://github.com/Jeldik/kiwi#readme",
+  "devDependencies": {
+    "cypress": "^6.8.0",
+    "npx": "^10.2.2"
+  }
+}
