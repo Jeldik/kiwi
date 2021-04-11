@@ -1,3 +1,4 @@
 {
-    "baseUrl": "https://www.kiwi.com/"
+    "baseUrl": "https://www.kiwi.com/",
+    "watchForFileChanges": false
 }

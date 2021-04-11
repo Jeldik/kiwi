@@ -21,7 +21,8 @@
   },
   "homepage": "https://github.com/Jeldik/kiwi#readme",
   "devDependencies": {
-    "cypress": "^6.8.0",
+    "cypress": "^7.0.0",
+    "cypress-audit": "^0.3.0",
     "npx": "^10.2.2"
   }
 }
