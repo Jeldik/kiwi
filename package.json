@@ -23,6 +23,10 @@
   "devDependencies": {
     "cypress": "^7.0.0",
     "cypress-audit": "^0.3.0",
-    "npx": "^10.2.2"
+    "npx": "^10.2.2",
+    "typescript": "^4.2.4"
+  },
+  "dependencies": {
+    "cypress-lighthouse": "^0.1.0"
   }
 }
